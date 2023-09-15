@@ -1,6 +1,6 @@
 {
-    "name": "corornaapp",
-    "short_name": "corornaapp",
+    "name": "covid_tracker",
+    "short_name": "covid_tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
